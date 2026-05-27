@@ -1,4 +1,4 @@
-Burger Shop Sales Dashboard
+Project overview 
 
 This project is an interactive Excel Sales Dashboard developed to analyze burger shop sales performance, customer ordering behavior, and category-wise revenue trends. The dashboard transforms raw sales data into meaningful business insights using data cleaning, KPI calculations, pivot tables, and interactive visualizations.
 
