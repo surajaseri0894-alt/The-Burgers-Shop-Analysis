@@ -58,6 +58,10 @@ The raw datasets were cleaned and transformed before building the dashboard.
 - Sales by Categories
 - Category-wise Revenue Contribution
 
+## Dashboard preview
+<img width="1838" height="933" alt="image" src="https://github.com/user-attachments/assets/e43aa5f1-0fd1-408e-b59a-b440c63317b7" />
+
+
 ---
 
 ##  Tools & Technologies Used
