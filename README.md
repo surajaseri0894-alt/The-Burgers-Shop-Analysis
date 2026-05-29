@@ -75,7 +75,7 @@ The raw datasets were cleaned and transformed before building the dashboard.
 
 ---
 
-## 🎯 Business Objective
+##  Business Objective
 
 The purpose of this project is to help understand customer purchasing patterns, identify high-performing products, monitor revenue trends, and improve business decision-making using interactive dashboard reporting.
 
